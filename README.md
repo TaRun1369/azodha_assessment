@@ -36,19 +36,17 @@ Follow these steps to get the project up and running on your local machine.
 
 1.  Clone the repository:
     
-    bashCopy code
     
     `git clone https://github.com/TaRu1369/azodha_assessment`
     
 2.  Navigate to the project directory:
     
-    bashCopy code
+
     
     `cd azodha_assessment`
     
 3.  Install dependencies:
     
-    bashCopy code
     
     `flutter pub get`
     
@@ -56,7 +54,6 @@ Follow these steps to get the project up and running on your local machine.
     
 5.  Run the app:
     
-    bashCopy code
     
     `flutter run`
     
