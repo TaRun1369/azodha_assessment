@@ -15,7 +15,6 @@ Table of Contents
 *   [Getting Started](#getting-started)
 *   [Major Dependencies](#major-dependencies)
 *   [Usage](#usage)
-*   [Screenshots](#screenshots)
 
 
 
@@ -81,13 +80,7 @@ Usage
 4.  If you provided a phone number, you will receive an OTP for verification.
 5.  Email addresses will be validated using RegExp to ensure they are in the correct format.
 
-Screenshots
------------
 
-![Screenshot 1](https://i.postimg.cc/SsCX1kNt/Whats-App-Image-2023-09-16-at-12-34-45-AM.jpg)
-
-![Screenshot 2](https://i.postimg.cc/3xzJsV6M/Whats-App-Image-2023-09-16-at-12-36-17-AM.jpg)
-![Screenshot 1](https://i.postimg.cc/HWqR28C6/Whats-App-Image-2023-09-16-at-12-45-33-AM.jpg)
 
 
 
