@@ -38,13 +38,13 @@ Follow these steps to get the project up and running on your local machine.
     
     bashCopy code
     
-    `git clone https://github.com/lochanikalidasu/Azodha_homeAssignment`
+    `git clone https://github.com/TaRu1369/azodha_assessment`
     
 2.  Navigate to the project directory:
     
     bashCopy code
     
-    `cd Azodha_homeAssignment`
+    `cd azodha_assessment`
     
 3.  Install dependencies:
     
