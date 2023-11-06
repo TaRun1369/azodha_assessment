@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395316765798",
+    "project_id": "azod-e89bc",
+    "storage_bucket": "azod-e89bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395316765798:android:a4105a473813bd99dab9a7",
+        "android_client_info": {
+          "package_name": "com.example.azodha_internship"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEjymbQwu9WWSzk-Jlopih2VmKUCqLDKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
